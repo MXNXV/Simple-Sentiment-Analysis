@@ -20,4 +20,6 @@ Check out the dataset here :https://nlp.stanford.edu/sentiment/index.html
 The datset consists of positive and negative movie reviews
 
 For more information about the dataset, see [https://www.tensorflow.org/datasets/catalog/glue#gluesst2](https://www.tensorflow.org/datasets/catalog/glue#gluesst2)
-"""
+
+It uses CNNs, single LSTMs, and multiple LSTMs you can modify the code later to select whatever floats your boat.
+
